@@ -21,24 +21,14 @@
     <div class="content">
         <div class="label-container">
             <div class="label-header">
-                <img
-                    class="left-black-red-button"
-                    src="..\img\WebsiteButton_LeftArrow_blk.svg"
-                    alt="Right"
-                    height="25"
-                    width="25" />
+                
                 <div class="label-text">JANUARY 2021</div> 
-                <img
-                    class="right-black-red-button"
-                    src="..\img\WebsiteButton_RightArrow_blk.svg"
-                    alt="Right"
-                    height="25"
-                    width="25" />
+                
             </div>
             <div class="label-content">
 
                     <div class="label-content-pane-text">
-                        January 2021
+                        January 2021 Text
                     </div>
                     
                     <div class="galleryImage">

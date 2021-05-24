@@ -21,11 +21,16 @@
     margin: 0px;
     font-family: 'Comfortaa', cursive;
     max-width: 100%;
+    
+  }
+
+  body * {
+    box-sizing: border-box;
   }
 
   svg {
     padding: 5px;
-    box-sizing: border-box;
+    
   } 
   svg > line {
     stroke:rgb(0,0,0);
@@ -303,13 +308,46 @@
   .image {
     object-fit: contain;
     width: 100%;
-    height: 100%;
+    /* height: 100%; */
+    height: auto;
   }
 
   .galleryImage {
-    width: 300px;
-    height: 300px;
+    /* width: 300px;
+    height: 300px; */
     margin: auto;
     margin-top: 20px;
     margin-bottom: 20px;
+  }
+
+  .thumbnail-container {
+    position: relative;
+    width: 100%;
+    
+  }
+
+  .overlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5); /* Black see-through */
+    color: #f1f1f1;
+    height: 100%;
+    width: 100%;
+    /* transition: .5s ease; */
+    opacity:0;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    /* padding-top: 10px;
+    padding-bottom: 10px; */
+    text-align: center;
+  }
+
+  .thumbnail-container:hover .overlay {
+    opacity: 1;
   }

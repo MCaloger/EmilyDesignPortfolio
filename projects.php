@@ -20,21 +20,30 @@
                 <div class="thumbnail-item">
                     <div class="thumbnail-item-image">
                         <a href="/project/january2021.php">
-                            <img class="thumbnail-sm" src="img\January 2021\JAN2021_Thumbnail.png" alt="cards image">
-                        </a>
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\January 2021\JAN2021_Thumbnail.png" alt="cards image">  
+                                <div class="overlay">January 2021</div>
+                            </div>                  
+                        </a>      
                     </div>
                 </div>
                 <div class="thumbnail-item">
                     <div class="thumbnail-item-image">
                         <a href="/project/february2021.php">
-                            <img class="thumbnail-sm" src="img\February 2021\FEB2021_Thumbnail.png" alt="logos image">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\February 2021\FEB2021_Thumbnail.png" alt="logos image">
+                                <div class="overlay">February 2021</div>
+                            </div>
                         </a>
                     </div>
                 </div>
                 <div class="thumbnail-item">
                     <div class="thumbnail-item-image">
                         <a href="/project/march2021.php">
-                            <img class="thumbnail-sm" src="img\March 2021\EM_MarchLogo_WhiteRook.png" alt="logos image">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\March 2021\EM_MarchLogo_WhiteRook.png" alt="logos image">
+                                <div class="overlay">March 2021</div>
+                            </div>
                         </a>
                     </div>
                 </div>
