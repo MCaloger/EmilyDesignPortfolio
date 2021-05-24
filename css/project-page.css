@@ -1,0 +1,42 @@
+.carouselControls {
+    display:flex;
+    flex-direction: row;
+    
+}
+
+
+
+.carouselControls > * {
+    flex: 1;
+    
+    
+}
+
+.carousel {
+    flex-direction: column;
+}
+
+.carouselImage {
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.carouselLeft, .carouselRight {
+    display:flex;
+    align-items: center;
+  justify-content: center;
+}
+
+.label-content-pane {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  justify-content: center;
+}
+
+.label-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  justify-content: center;
+}

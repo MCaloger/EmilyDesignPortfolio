@@ -1,0 +1,315 @@
+
+@media (min-width: 768px){
+    .header {
+      flex-direction: row;
+    }
+}
+
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+  }
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+  body {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Comfortaa', cursive;
+    max-width: 100%;
+  }
+
+  svg {
+    padding: 5px;
+    box-sizing: border-box;
+  } 
+  svg > line {
+    stroke:rgb(0,0,0);
+    stroke-width: 1;
+  }
+
+  svg > text {
+    fill: black;
+    
+  }
+
+  .boxed > * {
+    padding: 5px;
+    box-sizing: border-box;
+    stroke-width: 2;
+    user-select: none;
+  }
+
+  .boxed > rect {
+    fill: white;
+  }
+
+  .boxed > rect:hover,
+  .boxed:hover {
+    fill: #f44336;
+    color: white;
+  }
+
+  .boxed > rect:active,
+  .boxed:active {
+    fill: #f44336;
+    color: white;
+  }
+
+  .boxed > text {
+    /* font-family: sans-serif; */
+    text-transform: UPPERCASE;
+    font-size: 16px;
+
+  }
+
+  .boxed > text:hover {
+    font-family: sans-serif;
+    text-transform: UPPERCASE;
+    font-size: 20px;
+    color: white;
+  }
+
+  .logo {
+    width: 75px;
+    height: 75px;
+    background-image: url("../img/SiteLogo/EM_PencilBird_Original-02.svg");
+    background-size: cover;
+  }
+
+  .logo:hover {
+    background-image: url("../img/SiteLogo/EM_PencilBird_Walk1-03.svg");
+    background-size: cover;
+  }
+
+  
+
+  .header {
+      display: flex;
+      align-content: center;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 5px;
+  }
+
+  .header > * {
+      margin-top: 5px;
+      margin-bottom: 5px;
+  }
+
+  .label-text {
+    font-weight: bold;;
+  }
+
+  .content {
+    margin-top: 5px;
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  .text {
+      padding: 10px;
+  }
+
+  .label-container {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-content: center;
+      align-items: center;
+  }
+
+  
+
+  .label-header {
+        border: 3px solid black;
+        padding: 5px;
+        margin: 5px;
+        left: 25%;
+        top: 0px;
+        width: 25%;
+        height: 30px;
+        z-index: 1;
+        background: white;
+        text-align: center;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+  }
+
+  .label-header > * {
+    flex: 1;
+  }
+
+  .label-content {
+        width: 75%;
+        display: flex;
+        padding: 10px;
+        flex-direction: column;
+  }
+
+  .label-content-pane-text {
+    flex: 1;
+    text-align: center;
+  }
+
+  .label-content-pane-carousel {
+    flex: 2
+  }
+
+  .footer {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+      
+  }
+  .right {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+        justify-content: center;
+  }
+
+  .carousel {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    max-width: inherit;
+    max-height: inherit;
+    margin-bottom: 5px;
+  }
+
+  .carousel > * {
+    display: flex;
+    align-items : center;
+    justify-content: center;
+    margin-top: 2px;
+    margin-bottom: 2px;
+  }
+
+  .carouselControls {
+    display: flex;
+  }
+
+  .carouselControls > * {
+    /* flex: 1; */
+    
+  }
+
+  .carouselLeft, .carouselRight {
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .carouselCenter {
+  
+    width: inherit;
+    max-width: inherit;
+    max-height: inherit;
+  }
+
+  .carouselImage {
+    object-fit: contain;
+    width: 500px;
+    height: 500px;
+    
+  }
+
+  .carouselInactive {
+    display: none;
+  }
+
+  .thumbnail-lg {
+    width: 325px;
+    height: 325px;
+  }
+
+  .thumbnail-sm {
+    width: 175px;
+    height: 175px;
+  }
+
+  .thumbnail-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    
+  }
+
+  .thumbnail-item {
+    
+    align-items: center;
+    justify-content: center;
+
+    margin: 5px;
+    padding: 5px;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    margin: auto;
+  }
+
+  .grid-container {
+    display: grid;
+    grid-gap: 25px;
+    grid-template-columns: auto auto auto;
+  }
+
+  .row {
+    display: flex;
+    width: 25%;
+  }
+
+  .row > * {
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .textWithIcon {
+    display: flex;
+  }
+
+  .textWithIcon > * {
+    margin-left: 2px;
+    margin-right: 2px;
+  }
+
+  .right-black-red-button:hover {
+    content:url("../img/WebsiteButton_RightArrow_red.svg");
+  }
+
+  .left-black-red-button:hover {
+    content:url("../img/WebsiteButton_LeftArrow_red.svg");
+  }
+
+  .image {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+  }
+
+  .galleryImage {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
