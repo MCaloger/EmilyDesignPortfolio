@@ -1,14 +1,5 @@
-
-@media (min-width: 768px){
-    .header {
-      flex-direction: row;
-    }
-}
-
-@media (max-width: 768px) {
-  .header {
-    flex-direction: column;
-  }
+.header {
+  flex-direction: row;
 }
 
 .app {
@@ -157,7 +148,7 @@
   }
 
   .label-content {
-        width: 75%;
+        width: 50%;
         display: flex;
         padding: 10px;
         flex-direction: column;
@@ -313,6 +304,8 @@
   }
 
   .galleryImage {
+    width: 100%;
+    height: auto;
     /* width: 300px;
     height: 300px; */
     margin: auto;
@@ -339,9 +332,9 @@
     height: 100%;
     width: 100%;
     /* transition: .5s ease; */
-    opacity:0;
+    opacity:1;
     color: white;
-    font-size: 20px;
+    font-size: 36px;
     padding: 20px;
     /* padding-top: 10px;
     padding-bottom: 10px; */
@@ -350,4 +343,16 @@
 
   .thumbnail-container:hover .overlay {
     opacity: 1;
+  }
+
+  @media screen and (max-width: 768px) {
+    .header {
+      flex-direction: column;
+    }
+  
+    .grid-container {
+      display: grid;
+      grid-gap: 25px;
+      grid-template-columns: repeat(1, 1fr);
+    }
   }

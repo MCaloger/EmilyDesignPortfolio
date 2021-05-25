@@ -22,33 +22,19 @@
         <div class="label-container">
             <div class="label-header">
                 
-                <div class="label-text">February 2021</div> 
+                <div class="label-text">LOGOS</div> 
                 
             </div>
             <div class="label-content">
 
                     <div class="label-content-pane-text">
-                        February 2021
+                        Logos text
                     </div>
-
-                    <video class="galleryImage" width="300" height="300" autoplay muted loop>
-                        <source src="..\img\February 2021\EM_February2021_BorealisAnimation.mp4" type="video/mp4">
-                        Your browser does not support the video tag.
-                    </video>
                     
                     <div class="galleryImage">
-                        <img class="image" src="..\img\February 2021\EM_Borealis_Colour.png">
+                        <img class="image" src="..\img\January 2021\EMLemonPattern_finalsig.png">
                     </div>
 
-                    <div class="galleryImage">
-                        <img class="image" src="..\img\February 2021\EM_Borealis_BW.png">
-                    </div>
-
-                    <video class="galleryImage" width="300" height="300" autoplay muted loop>
-                        <source src="..\img\February 2021\EM_NightSkyAnimation_Feb20.mp4" type="video/mp4">
-                        Your browser does not support the video tag.
-                    </video>
-                    
                     <div class="galleryImage">
                         <img class="image" src="..\img\February 2021\NightSky_Pattern_9_Feb19.png">
                     </div>
@@ -57,9 +43,18 @@
                         <img class="image" src="..\img\February 2021\NightSky_Pattern36_Feb19.png">
                     </div>
 
-                </div>
-                
+                    <div class="galleryImage">
+                        <img class="image" src="..\img\March 2021\EM_March2021_Pattern_Regular.png">
+                    </div>
 
+                    <div class="galleryImage">
+                        <img class="image" src="..\img\March 2021\EM_March2021_Pattern_Repeat.png">
+                    </div>
+
+                    <div class="galleryImage">
+                        <img class="image" src="..\img\April 2021\ThankYouPattern_Colour_Apr18.png">
+                    </div>
+                </div>
         </div>
     </div>
 
