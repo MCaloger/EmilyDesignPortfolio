@@ -27,35 +27,52 @@
             </div>
             <div class="label-content">
 
-                    <div class="label-content-pane-text">
-                        Animations text
-                    </div>
-                    
+                <div class="label-content-pane-text">
+                    Animations text
+                </div>
+            
+                <a class="centered-video" href="../project/newyearlemon.php">
                     <video class="galleryImage" width="300" height="300" autoplay muted loop>
                         <source src="..\img\January 2021\EM_January2021_Lemon_WhiteBG.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
+                </a>
 
-                    <video class="galleryImage" width="300" height="300" autoplay muted loop>
-                        <source src="..\img\February 2021\EM_February2021_BorealisAnimation.mp4" type="video/mp4">
-                        Your browser does not support the video tag.
-                    </video>
+                <video class="galleryImage" width="300" height="300" autoplay muted loop>
+                    <source src="..\img\February 2021\EM_February2021_BorealisAnimation.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
 
+                <a class="centered-video" href="../project/skycycle.php">
                     <video class="galleryImage" width="300" height="300" autoplay muted loop>
                         <source src="..\img\February 2021\EM_NightSkyAnimation_Feb20.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
+                </a>
 
+                <video class="galleryImage" width="300" height="300" autoplay muted loop>
+                    <source src="..\img\March 2021\EM_MarchAnimation_work1.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+
+                <video class="galleryImage" width="300" height="300" autoplay muted loop>
+                    <source src="..\img\April 2021\EM_ThankYouAnimation_Apr18 (2).mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+                
+                <a class="centered-video" href="../project/stokelyholidaycard.php">
+                    <div class="galleryImage">
+                        <img class="image" src="..\img\Animation_HolidayCard\JJ_Holiday2020_RedGrey_540px.gif">
+                    </div>
+                </a>
+
+                <a class="centered-video" href="../project/newnormal.php">
                     <video class="galleryImage" width="300" height="300" autoplay muted loop>
-                        <source src="..\img\March 2021\EM_MarchAnimation_work1.mp4" type="video/mp4">
+                        <source src="..\img\Animation_NewNormal\HRM_NN_Work5c_WebsiteCut_AME\newnormalsnippet.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
-
-                    <video class="galleryImage" width="300" height="300" autoplay muted loop>
-                        <source src="..\img\April 2021\EM_ThankYouAnimation_Apr18 (2).mp4" type="video/mp4">
-                        Your browser does not support the video tag.
-                    </video>
-                </div>
+                </a>
+            </div>
         </div>
     </div>
 

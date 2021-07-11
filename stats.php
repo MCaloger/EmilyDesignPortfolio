@@ -16,6 +16,9 @@
 
     <div class="container">
         <div class="content">
+            <div class="label-header">
+                <div class="label-text">EDUCATION + SHOWS</div> 
+            </div>
             <ul>
                 <li>Bachelor of Fine Arts, Spec. Honors. Visual Arts, York University, Toronto, ON.  2012.</li>
                 <li>Graphic Design Diploma, Highest Ranking Graduate. Durham College, Oshawa, ON. 2018</li>

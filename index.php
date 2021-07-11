@@ -20,7 +20,7 @@
 
         <div class="content">
             <div class="text">
-                <p>EMILY IS A GRAPHIC DESIGNER THAT LIKES TO DABBLE IN ILLUSTRATION.</p>
+                <p>EMILY IS A GRAPHIC DESIGNER THAT LIKES TO DABBLE IN ILLUSTRATION AND ANIMATION.</p>
             </div>
             <div class="grid-container">
                 <div class="thumbnail-item">
@@ -55,34 +55,6 @@
                             </a>
                         </div>
                     </div>
-            </div>
-
-            
-
-            <div class="thumbnail-row">
-                <div class="thumbnail-item">
-                    <div class="thumbnail-item-image">
-                        <a href="/project/january2021.php">
-                            <img class="thumbnail-lg" src="img\January 2021\JAN2021_Thumbnail.png" alt="cards image">
-                        </a>
-                    </div>
-                </div>
-                <div class="thumbnail-item">
-
-                    <div class="thumbnail-item-image">
-                        <a href="/project/february2021.php">
-                            <img class="thumbnail-lg" src="img\February 2021\FEB2021_Thumbnail.png" alt="borealis">
-                        </a>
-                    </div>
-                </div>
-                <div class="thumbnail-item">
-
-                    <div class="thumbnail-item-image">
-                        <a href="/project/march2021.php">
-                            <img class="thumbnail-lg" src="img\March 2021\EM_MarchLogo_WhiteRook.png" alt="whiterook">
-                        </a>
-                    </div>
-                </div>
             </div>
         </div>
 

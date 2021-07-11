@@ -1,0 +1,25 @@
+————————————————————————————————————
+Powerups Pattern
+————————————————————————————————————
+Made for May’s Powerup theme, these patterned vector icons are an ode to some familiar childhood entertainment.
+
+
+
+————————————————————————————————————
+Layout for Page:
+————————————————————————————————————
+Please place the pattern with all the elements (EM_PowerupPattern_May14) large and at the top on its own. 
+
+Please pace the remaining three below the large, solo pattern in one horizontal line. 
+
+ex:
+ 
+   ——————
+  |      |
+  |      |
+  |      |
+   ——————
+  —— —— ——
+ |  |  |  |
+  —— —— ——
+

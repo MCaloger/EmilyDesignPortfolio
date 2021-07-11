@@ -30,6 +30,24 @@
                     <div class="label-content-pane-text">
                         Logos text
                     </div>
+
+                    <a href="../project/celestial.php">
+                        <div class="galleryImage">
+                            <img class="image" src="..\img\Pattern_Celestial\EM_CelestialPattern_9.png">
+                        </div>
+                    </a>
+
+                    <a href="../project/powerup.php">
+                        <div class="galleryImage">
+                            <img class="image" src="..\img\Pattern_Powerups\EM_PowerupPattern_ElectricLight_May14.png">
+                        </div>
+                    </a>
+
+                    <a href="../project/lemon.php">
+                        <div class="galleryImage">
+                            <img class="image" src="..\img\Pattern_Lemons\EMLemonPattern_finalsig.png">
+                        </div>
+                    </a>   
                     
                     <div class="galleryImage">
                         <img class="image" src="..\img\January 2021\EMLemonPattern_finalsig.png">
@@ -54,6 +72,8 @@
                     <div class="galleryImage">
                         <img class="image" src="..\img\April 2021\ThankYouPattern_Colour_Apr18.png">
                     </div>
+
+                    
                 </div>
         </div>
     </div>

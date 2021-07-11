@@ -15,56 +15,64 @@
         ?>
     
         <div class="content">
-
             <div class="grid-container">
                 <div class="thumbnail-item">
                     <div class="thumbnail-item-image">
-                        <a href="/project/january2021.php">
+                        <a href="/project/stokelyholidaycard.php">
                             <div class="thumbnail-container">
-                                <img class="thumbnail-sm" src="img\January 2021\JAN2021_Thumbnail.png" alt="cards image">  
-                                <div class="overlay">January 2021</div>
-                            </div>                  
-                        </a>      
-                    </div>
-                </div>
-                <div class="thumbnail-item">
-                    <div class="thumbnail-item-image">
-                        <a href="/project/february2021.php">
-                            <div class="thumbnail-container">
-                                <img class="thumbnail-sm" src="img\February 2021\FEB2021_Thumbnail.png" alt="logos image">
-                                <div class="overlay">February 2021</div>
+                                <img class="thumbnail-sm" src="img\Animation_HolidayCard\HolidayCardAnimation_Thumbnail.png" alt="logos image">
+
                             </div>
                         </a>
                     </div>
                 </div>
                 <div class="thumbnail-item">
                     <div class="thumbnail-item-image">
-                        <a href="/project/march2021.php">
+                        <a href="/project/newyearlemon.php">
                             <div class="thumbnail-container">
-                                <img class="thumbnail-sm" src="img\March 2021\EM_MarchLogo_WhiteRook.png" alt="logos image">
-                                <div class="overlay">March 2021</div>
+                                <img class="thumbnail-sm" src="img\Animation_NewYearLemon\NewYearLemon_Thumbnail.png" alt="logos image">
+
                             </div>
                         </a>
                     </div>
                 </div>
                 <div class="thumbnail-item">
                     <div class="thumbnail-item-image">
-                        <a href="nostalgiadistracted.php">
-                            <img class="thumbnail-sm" src="img\Nostalgia-Distracted\20191017_193233.jpg" alt="nostalgia-distracted image">
+                        <a href="/project/borealis.php">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Logo_Borealis\Borealis_LogoColour.png" alt="logos image">
+
+                            </div>
                         </a>
                     </div>
                 </div>
                 <div class="thumbnail-item">
                     <div class="thumbnail-item-image">
-                        <a href="cards.php">
-                            <img class="thumbnail-sm" src="img\cards\20191124_160705.jpg" alt="cards image">
+                        <a href="/project/citrish.php">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Logo_Citrish\Citrish_LogoText_Colour-12.svg" alt="logos image">
+
+                            </div>
                         </a>
                     </div>
                 </div>
                 <div class="thumbnail-item">
                     <div class="thumbnail-item-image">
-                        <a href="logos.php">
-                            <img class="thumbnail-sm" src="img\25 Logos - 2020\20200615_190911.jpg" alt="logos image">
+                        <a href="/project/powerup.php">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Logo_Powerup\EM_PowerupLogo_WhiteBG.png" alt="logos image">
+
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/celestial.php">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Pattern_Celestial\EM_CelestialPattern_9.png" alt="logos image">
+
+                            </div>
                         </a>
                     </div>
                 </div>
