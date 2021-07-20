@@ -13,11 +13,11 @@
     </a>
 
 
-    <a href="/projects.php">
+    <a href="/projects">
         <?= generate3dbox(120, 60, "PROJECTS") ?>
     </a>
 
-    <a href="/stats.php">
+    <a href="/stats">
         <?= generate3dbox(120, 60, "STATS") ?>
     </a>
 </div>

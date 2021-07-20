@@ -13,7 +13,7 @@
 
         <div class="logo"><img src="EM Logo\EM_2020Logo_Black.svg" /></div>
 
-        <a href="index.php">
+        <a href="index">
             <svg class="boxed"  width="150" height="75">
 
                 <line x1="1%" y1="25%" x2="1%" y2="99%" />
@@ -31,7 +31,7 @@
         </a>
 
 
-        <a href="projects.php">
+        <a href="projects">
             <svg class="boxed" width="150" height="75">
 
                 <line x1="1%" y1="25%" x2="1%" y2="99%" />
@@ -48,7 +48,7 @@
             </svg>
         </a>
 
-        <a href="stats.php">
+        <a href="stats">
         <svg class="boxed" width="150" height="75">
 
             <line x1="1%" y1="25%" x2="1%" y2="99%" />

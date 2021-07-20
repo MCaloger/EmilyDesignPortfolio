@@ -30,37 +30,37 @@
             </div>
             <div class="label-content">
 
-                    <a href="../project/celestial.php">
+                    <a href="../project/celestial">
                         <div class="galleryImage">
                             <img class="image" src="..\img\Pattern_Celestial\EM_CelestialPattern_9.png">
                         </div>
                     </a>
 
-                    <a href="../project/poweruppattern.php">
+                    <a href="../project/poweruppattern">
                         <div class="galleryImage">
                             <img class="image" src="..\img\Pattern_Powerups\EM_PowerupPattern_May14.png">
                         </div>
                     </a>
 
-                    <a href="../project/lemon.php">
+                    <a href="../project/lemon">
                         <div class="galleryImage">
                             <img class="image" src="..\img\Pattern_Lemons\EMLemonPattern_finalsig.png">
                         </div>
                     </a>   
 
-                    <a href="../project/neonchesspattern.php">
+                    <a href="../project/neonchesspattern">
                         <div class="galleryImage">
                             <img class="image" src="..\img\March 2021\EM_March2021_Pattern_Regular.png">
                         </div>
                     </a>
 
-                    <a href="../project/vintagebird.php">
+                    <a href="../project/vintagebird">
                         <div class="galleryImage">
                             <img class="image" src="..\img\Pattern_VintageBird\VintageBird_Pattern_Image2.png">
                         </div>
                     </a>
 
-                    <a href="../project/mermade.php">
+                    <a href="../project/mermade">
                         <div class="galleryImage">
                             <img class="image" src="..\img\Project_MerMade\Pattern_MerMade\EM_JulyPattern_ThinWaves_v2-01.png">
                         </div>

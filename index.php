@@ -29,7 +29,7 @@
                 <div class="thumbnail-item">
                     <div class="category-title">Logos</div>
                         <div class="thumbnail-item-image">
-                            <a href="/category/logos.php">
+                            <a href="/category/logos">
                                 <div class="thumbnail-container">
                                     <img class="thumbnail-lg" src="img\March 2021\EM_MarchLogo_BlackRook.png" alt="logos image">
                                 </div>
@@ -40,7 +40,7 @@
                     <div class="thumbnail-item">
                         <div class="category-title">Animations</div>
                         <div class="thumbnail-item-image">
-                            <a href="/category/animations.php">
+                            <a href="/category/animations">
                                 <div class="thumbnail-container">
                                     <img class="thumbnail-lg" src="img\March 2021\stills\Frame-00208.png" alt="logos image">
                                  
@@ -52,7 +52,7 @@
                     <div class="thumbnail-item"> 
                         <div class="category-title">Illustrations</div>
                         <div class="thumbnail-item-image">
-                            <a href="/category/illustrations.php">
+                            <a href="/category/illustrations">
                                 <div class="thumbnail-container">
                                     <img class="thumbnail-lg" src="img\March 2021\EM_March2021_Pattern_Regular.png" alt="logos image">
                                 </div>
