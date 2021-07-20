@@ -4,7 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>CELESTIAL</title>
+    <link rel="icon" 
+      type="image/png" 
+      href="..\img\SiteLogo\EM_PencilBird_Original-02.svg" />
     <?php 
         require_once($_SERVER['DOCUMENT_ROOT'] . "" . "/components/headerIncludes.php"); 
     ?>
@@ -31,11 +34,6 @@
                         I made this pattern (and the matching animation) during lockdown; a time where I was not feeling particularly wise or noble.
  
                     </div>
-
-                    <video class="galleryImage" width="300" height="300" autoplay muted loop>
-                        <source src="..\img\January 2021\EM_January2021_Lemon_WhiteBG.mp4" type="video/mp4">
-                        Your browser does not support the video tag.
-                    </video>
 
 
                     <div class="galleryImage">

@@ -3,7 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>HOME</title>
+    <link rel="icon" 
+      type="image/png" 
+      href="img\SiteLogo\EM_PencilBird_Original-02.svg" />
 
     <?php require_once(getcwd() . "/" . "components/headerIncludes.php"); ?>
     
@@ -24,33 +27,34 @@
             </div>
             <div class="grid-container">
                 <div class="thumbnail-item">
+                    <div class="category-title">Logos</div>
                         <div class="thumbnail-item-image">
                             <a href="/category/logos.php">
                                 <div class="thumbnail-container">
-                                    <img class="thumbnail-lg" src="img\March 2021\EM_MarchLogo_WhiteRook.png" alt="logos image">
-                                    <div class="overlay">Logos</div>
+                                    <img class="thumbnail-lg" src="img\March 2021\EM_MarchLogo_BlackRook.png" alt="logos image">
                                 </div>
                             </a>
                         </div>
                     </div>
 
                     <div class="thumbnail-item">
+                        <div class="category-title">Animations</div>
                         <div class="thumbnail-item-image">
                             <a href="/category/animations.php">
                                 <div class="thumbnail-container">
                                     <img class="thumbnail-lg" src="img\March 2021\stills\Frame-00208.png" alt="logos image">
-                                    <div class="overlay">Animations</div>
+                                 
                                 </div>
                             </a>
                         </div>
                     </div>
 
-                    <div class="thumbnail-item">
+                    <div class="thumbnail-item"> 
+                        <div class="category-title">Illustrations</div>
                         <div class="thumbnail-item-image">
-                            <a href="/category/patterns.php">
+                            <a href="/category/illustrations.php">
                                 <div class="thumbnail-container">
                                     <img class="thumbnail-lg" src="img\March 2021\EM_March2021_Pattern_Regular.png" alt="logos image">
-                                    <div class="overlay">Patterns</div>
                                 </div>
                             </a>
                         </div>

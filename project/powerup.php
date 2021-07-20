@@ -4,7 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>POWERUP</title>
+    <link rel="icon" 
+      type="image/png" 
+      href="..\img\SiteLogo\EM_PencilBird_Original-02.svg" />
     <?php 
         require_once($_SERVER['DOCUMENT_ROOT'] . "" . "/components/headerIncludes.php"); 
     ?>
@@ -37,21 +40,6 @@
                         <img class="image" src="..\img\Logo_Powerup\EM_PowerupLogo_BlackBG.png">
                     </div>
                     
-                    <div class="galleryImage">
-                        <img class="image" src="..\img\Pattern_Powerups\EM_PowerupPattern_ElectricLight_May14.png">
-                    </div>
-
-                    <div class="galleryImage">
-                        <img class="image" src="..\img\Pattern_Powerups\EM_PowerupPattern_Fire_May14.png">
-                    </div>
-
-                    <div class="galleryImage">
-                        <img class="image" src="..\img\Pattern_Powerups\EM_PowerupPattern_IceWater_May14.png">
-                    </div>
-
-                    <div class="galleryImage">
-                        <img class="image" src="..\img\Pattern_Powerups\EM_PowerupPattern_May14.png">
-                    </div>
                 </div>
         </div>
     </div>

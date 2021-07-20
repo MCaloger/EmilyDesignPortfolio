@@ -4,7 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>ANIMATIONS</title>
+    <link rel="icon" 
+      type="image/png" 
+      href="..\img\SiteLogo\EM_PencilBird_Original-02.svg" />
     <?php 
         require_once($_SERVER['DOCUMENT_ROOT'] . "" . "/components/headerIncludes.php"); 
     ?>
@@ -26,10 +29,6 @@
                 
             </div>
             <div class="label-content">
-
-                <div class="label-content-pane-text">
-                    Animations text
-                </div>
             
                 <a class="centered-video" href="../project/newyearlemon.php">
                     <video class="galleryImage" width="300" height="300" autoplay muted loop>
@@ -51,11 +50,6 @@
                 </a>
 
                 <video class="galleryImage" width="300" height="300" autoplay muted loop>
-                    <source src="..\img\March 2021\EM_MarchAnimation_work1.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video>
-
-                <video class="galleryImage" width="300" height="300" autoplay muted loop>
                     <source src="..\img\April 2021\EM_ThankYouAnimation_Apr18 (2).mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
@@ -69,6 +63,34 @@
                 <a class="centered-video" href="../project/newnormal.php">
                     <video class="galleryImage" width="300" height="300" autoplay muted loop>
                         <source src="..\img\Animation_NewNormal\HRM_NN_Work5c_WebsiteCut_AME\newnormalsnippet.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </a>
+
+                <a class="centered-video" href="../project/elaborate.php">
+                    <video class="galleryImage" width="300" height="300" autoplay muted loop>
+                        <source src="..\img\Animation_Elaborate\EM_ElaborateAnimation_Mar21.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </a>
+
+                <a class="centered-video" href="../project/pencilbird.php">
+                    <video class="galleryImage" width="300" height="300" autoplay muted loop>
+                        <source src="..\img\Animation_PencilBird\EM_PencilBird1_JuneRun.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </a>
+
+                <a class="centered-video" href="../project/stayhydrated.php">
+                    <video class="galleryImage" width="300" height="300" autoplay muted loop>
+                        <source src="..\img\Animation_StayHydrated\EM_StayHydrated_3Colour.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </a>
+
+                <a class="centered-video" href="../project/rechargebattery.php">
+                    <video class="galleryImage" width="300" height="300" autoplay muted loop>
+                        <source src="..\img\BatteryAnimation_MissingText\Animation_RechargeBattery\EM_BatteryAnimation.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                 </a>

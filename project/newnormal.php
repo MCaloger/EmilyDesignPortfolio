@@ -4,7 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>NEW NORMAL</title>
+    <link rel="icon" 
+      type="image/png" 
+      href="..\img\SiteLogo\EM_PencilBird_Original-02.svg" />
     <?php 
         require_once($_SERVER['DOCUMENT_ROOT'] . "" . "/components/headerIncludes.php"); 
     ?>
@@ -28,7 +31,11 @@
             <div class="label-content">
 
                     <div class="label-content-pane-text">
-                        New Normal
+                        The goal of this video is to address the ‘new normal’ brought on by the pandemic and discuss the need for business to adapt to it.
+
+                        The client provided the text; I created the background animations and slide transitions. 
+
+                        The full video can be viewed here: <a href="https://www.youtube.com/watch?v=a30o9nyK18E">https://www.youtube.com/watch?v=a30o9nyK18E</a>
                     </div>
                     
                     <video class="galleryImage" width="300" height="300" autoplay muted loop>

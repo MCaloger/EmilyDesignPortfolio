@@ -5,8 +5,9 @@
 
 <div class="header">
 
-    <div class="logo"></div>
-
+    <a href="/">
+        <div class="logo"></div>
+    </a>
     <a href="/">
         <?= generate3dbox(120, 60, "HOME") ?>
     </a>
