@@ -24,7 +24,7 @@
     <div class="content">
         <div class="label-container">
             <div class="label-header">
-                <div class="label-text">Citrish</div> 
+                <div class="label-text">HARPY EAGLE</div> 
             </div>
             <div class="label-content">
 
@@ -39,15 +39,6 @@
                     <div class="galleryImage">
                         <img class="image" src="..\img\Logo_HarpyEagle\EM_HarpyLogo_BrownEyes_June16.png">
                     </div>
-
-                    <div class="galleryImage">
-                        <img class="image" src="..\img\Logo_Citrish\Citrish_Logo_Colour-13.svg">
-                    </div>
-
-                    <div class="galleryImage">
-                        <img class="image" src="..\img\Logo_Citrish\Citrish_Logo_Grey-15.svg">
-                    </div>
-
                     
                 </div>
         </div>
