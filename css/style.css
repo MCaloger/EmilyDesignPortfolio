@@ -394,4 +394,16 @@
       grid-gap: 25px;
       grid-template-columns: repeat(1, 1fr);
     }
+
+    .label-content {
+      width: 100%;
+    }
+
+    .galleryImage {
+      width: 100%;
+    }
+
+    .label-content-pane-text {
+      width: 100%;
+    }
   }
