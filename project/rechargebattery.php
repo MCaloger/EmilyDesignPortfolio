@@ -37,7 +37,7 @@
 
                     </div>
                     
-                    <video class="galleryImage" width="300" height="300" autoplay muted loop>
+                    <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>
                         <source src="..\img\BatteryAnimation_MissingText\Animation_RechargeBattery\EM_BatteryAnimation.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>

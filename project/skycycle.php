@@ -32,7 +32,7 @@
                         An ode to all the emotions experienced while working from home. Sometimes the days bleed together and sometimes you look around and notice that you are in fact, making progress.
                     </div>
 
-                    <video class="galleryImage" width="300" height="300" autoplay muted loop>
+                    <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>
                         <source src="..\img\Animation_SkyCycle\EM_SkyCycleAnimation_Feb20.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>

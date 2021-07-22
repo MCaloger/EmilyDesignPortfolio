@@ -32,12 +32,12 @@
                         Make sure you stay cool and hydrated this summer, whether with mysterious fruity drinks or  a refreshing glass of water. 
                     </div>
 
-                    <video class="galleryImage" width="300" height="300" autoplay muted loop>
+                    <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>
                         <source src="..\img\Animation_StayHydrated\EM_StayHydrated_NoColour.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
 
-                    <video class="galleryImage" width="300" height="300" autoplay muted loop>
+                    <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>
                         <source src="..\img\Animation_StayHydrated\EM_StayHydrated_3Colour.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>

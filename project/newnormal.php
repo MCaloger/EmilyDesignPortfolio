@@ -38,7 +38,7 @@
                         The full video can be viewed here: <a href="https://www.youtube.com/watch?v=a30o9nyK18E">https://www.youtube.com/watch?v=a30o9nyK18E</a>
                     </div>
                     
-                    <video class="galleryImage" width="300" height="300" autoplay muted loop>
+                    <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>
                         <source src="..\img\Animation_NewNormal\HRM_NN_Work5c_WebsiteCut_AME\newnormalsnippet.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>

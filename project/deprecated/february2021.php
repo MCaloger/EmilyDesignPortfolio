@@ -31,7 +31,7 @@
                         February 2021
                     </div>
 
-                    <video class="galleryImage" width="300" height="300" autoplay muted loop>
+                    <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>
                         <source src="..\img\February 2021\EM_February2021_BorealisAnimation.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
@@ -44,7 +44,7 @@
                         <img class="image" src="..\img\February 2021\EM_Borealis_BW.png">
                     </div>
 
-                    <video class="galleryImage" width="300" height="300" autoplay muted loop>
+                    <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>
                         <source src="..\img\February 2021\EM_NightSkyAnimation_Feb20.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>

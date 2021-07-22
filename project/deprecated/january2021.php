@@ -35,7 +35,7 @@
                         <img class="image" src="..\img\January 2021\Citrish_ColourLogo_Jan20.png">
                     </div>
 
-                    <video class="galleryImage" width="300" height="300" autoplay muted loop>
+                    <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>
                         <source src="..\img\January 2021\EM_January2021_Lemon_WhiteBG.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>

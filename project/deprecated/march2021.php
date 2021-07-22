@@ -37,7 +37,7 @@
                         <img class="image" src="..\img\March 2021\EM_MarchLogo_BlackRook.png">
                     </div>
 
-                    <video class="galleryImage" width="300" height="300" autoplay muted loop>
+                    <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>
                         <source src="..\img\March 2021\EM_MarchAnimation_work1.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>

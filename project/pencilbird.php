@@ -32,7 +32,7 @@
                         Pencil Bird has places to be, even if that means taking a tumble to get there.
                     </div>
 
-                    <video class="galleryImage" width="300" height="300" autoplay muted loop>
+                    <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>
                         <source src="..\img\Animation_PencilBird\EM_PencilBird1_JuneRun.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
