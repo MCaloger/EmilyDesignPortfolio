@@ -186,6 +186,15 @@
                         </a>
                     </div>
                 </div>
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/mercurymessages">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Logo_MercuryMessaging\EM_MercuryLogo_Icon-02.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
     

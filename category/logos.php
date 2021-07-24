@@ -65,9 +65,11 @@
                         </div>
                     </a>
 
-                    <div class="galleryImage">
-                        <img class="image" src="..\img\April 2021\EM_MercuryLogo_Icon-02.png">
-                    </div>    
+                    <a href="../project/mercurymessage">
+                        <div class="galleryImage">
+                            <img class="image" src="..\img\Logo_MercuryMessaging\EM_MercuryLogo_Icon-02.png">
+                        </div>    
+                    </a>
                     
                 </div>
         </div>
