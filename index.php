@@ -4,9 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HOME</title>
-    <link rel="icon" 
-      type="image/png" 
-      href="img\SiteLogo\EM_PencilBird_Original-02.svg" />
 
     <?php require_once(getcwd() . "/" . "components/headerIncludes.php"); ?>
     
