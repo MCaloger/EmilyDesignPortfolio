@@ -65,7 +65,7 @@
                         </div>
                     </a>
 
-                    <a href="../project/mercurymessage">
+                    <a href="../project/mercurymessages">
                         <div class="galleryImage">
                             <img class="image" src="..\img\Logo_MercuryMessaging\EM_MercuryLogo_Icon-02.png">
                         </div>    
