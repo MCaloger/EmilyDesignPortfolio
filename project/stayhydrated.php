@@ -36,7 +36,7 @@
                     </video>
 
                     <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>
-                        <source src="..\img\Animation_StayHydrated\EM_StayHydrated_3Colour.mp4" type="video/mp4">
+                        <source src="..\img\Animation_StayHydrated\EM_DrinkSlide_Colours.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
 
