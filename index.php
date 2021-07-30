@@ -24,9 +24,9 @@
             </div>
             <div class="grid-container">
                 <div class="thumbnail-item">
-                    <div class="category-title">Logos</div>
+                    <div class="category-title">DESIGNS</div>
                         <div class="thumbnail-item-image">
-                            <a href="/category/logos">
+                            <a href="/category/designs">
                                 <div class="thumbnail-container">
                                     <img class="thumbnail-lg" src="img\March 2021\EM_MarchLogo_BlackRook.png" alt="logos image">
                                 </div>

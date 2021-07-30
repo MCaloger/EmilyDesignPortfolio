@@ -384,6 +384,11 @@
     padding: 10px;
   }
 
+  li {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
   @media screen and (max-width: 768px) {
     .header {
       flex-direction: column;

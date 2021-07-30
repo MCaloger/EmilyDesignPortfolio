@@ -29,9 +29,9 @@
             <div class="label-content">
 
                     <div class="label-content-pane-text">
-                        This holiday card features art by Jeff Jackson and was created for Stokely Design Associates Inc.
+                        This holiday card was drawn by Jeff Jackson for Stokely Design Associates Inc.
 
-                        Animation done by me. 
+                        I isolated each part of the drawing, added colour and created the animation you see below. 
                     </div>
 
                     <div class="galleryImage">

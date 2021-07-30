@@ -22,12 +22,12 @@
     <div class="content">
         <div class="label-container">
             <div class="label-header">
-                <div class="label-text">Citrish</div> 
+                <div class="label-text">Mermade</div> 
             </div>
             <div class="label-content">
 
                     <div class="label-content-pane-text">
-                        A logo and pattern made for a sustainable seafood company featuring a cool summery palette. 
+                        A logo and pattern made for a sustainable seafood company with a cool summery palette. 
                     </div>
 
                     <div class="galleryImage">

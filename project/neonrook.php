@@ -22,12 +22,12 @@
     <div class="content">
         <div class="label-container">
             <div class="label-header">
-                <div class="label-text">Citrish</div> 
+                <div class="label-text">Neon Rook</div> 
             </div>
             <div class="label-content">
 
                     <div class="label-content-pane-text">
-                        The third project from the ‘neon’ set inspired by vaporware and synthwave aesthetics.
+                        The third project from the neon set inspired by vaporware and synthwave aesthetics.
                     </div>
 
                     <div class="galleryImage">

@@ -27,9 +27,7 @@
             <div class="label-content">
 
                     <div class="label-content-pane-text">
-                        2021 was a new year unlike any other. Coming out of a global pandemic and rolling into an uncertain future brought up a common phrase regarding life, lemons, and what you can do with them. 
-
-                        Sometimes your day-to-day feels as fruitless as throwing a lemon at a wall. Sometimes, the picture is clearer after you've been staring at it too long. 
+                        2021 was a new year unlike any other. Coming out of a global pandemic and rolling into an uncertain future brought up a common phrase regarding life, lemons, and what you can do with them.
                     </div>
 
                     <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>

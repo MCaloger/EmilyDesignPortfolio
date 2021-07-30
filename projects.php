@@ -71,7 +71,7 @@
                 </div>
                 <div class="thumbnail-item">
                     <div class="thumbnail-item-image">
-                        <a href="/project/celestial">
+                        <a href="/project/skyisthelimit">
                             <div class="thumbnail-container">
                                 <img class="thumbnail-sm" src="img\Pattern_Celestial\EM_CelestialPattern_9.png" alt="logos image">
                             </div>
@@ -98,7 +98,7 @@
                 </div>
                 <div class="thumbnail-item">
                     <div class="thumbnail-item-image">
-                        <a href="/project/poweruppattern">
+                        <a href="/project/mastertheelements">
                             <div class="thumbnail-container">
                                 <img class="thumbnail-sm" src="img\Pattern_Powerups\EM_PowerupPattern_May14.png" alt="logos image">
                             </div>
@@ -191,6 +191,42 @@
                         <a href="/project/mercurymessages">
                             <div class="thumbnail-container">
                                 <img class="thumbnail-sm" src="img\Logo_MercuryMessaging\EM_MercuryLogo_Icon-02.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/busbacks">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Design_Busbacks\EM_CCBusback_Sept2019_Thumbnail.jpg" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/southpondfarmsignage">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Design_SouthPondSignage\EM_SPFSignage_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/moneymindfulness">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Illustration_MoneyMindfulness\EM_MoneyMindfulness_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/seawitch">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Logo_SeaWitch\EM_SeaWitchLogo_Thumbnail.png" alt="logos image">
                             </div>
                         </a>
                     </div>

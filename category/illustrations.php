@@ -28,13 +28,13 @@
             </div>
             <div class="label-content">
 
-                    <a href="../project/celestial">
+                    <a href="../project/skyisthelimit">
                         <div class="galleryImage">
                             <img class="image" src="..\img\Pattern_Celestial\EM_CelestialPattern_9.png">
                         </div>
                     </a>
 
-                    <a href="../project/poweruppattern">
+                    <a href="../project/mastertheelements">
                         <div class="galleryImage">
                             <img class="image" src="..\img\Pattern_Powerups\EM_PowerupPattern_May14.png">
                         </div>
@@ -64,9 +64,15 @@
                         </div>
                     </a>
 
-                    <div class="galleryImage">
+                    <a href="../project/moneymindfulness">
+                        <div class="galleryImage">
+                            <img class="image" src="..\img\Illustration_MoneyMindfulness\EM_MoneyMindfulness_Thumbnail.png">
+                        </div>
+                    </a>
+
+                    <!-- <div class="galleryImage">
                         <img class="image" src="..\img\April 2021\ThankYouPattern_Colour_Apr18.png">
-                    </div>
+                    </div> -->
 
                 </div>
         </div>

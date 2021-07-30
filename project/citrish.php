@@ -27,7 +27,11 @@
             <div class="label-content">
 
                     <div class="label-content-pane-text">
-                        For January's lemon theme, I revived an unfinished personal project from 2019. The silhouette of a lemon half perfectly complements  the imagery of a fish and its silhouette. Both halves of the icon are recognizable objects on their own, but also feel like a complete unit when combined. 
+                        Lemon is the perfect accompaniment to fish, both in food and design. 
+
+                        This project was inspired by the influx of grocery delivery services, meal planning apps and health planning tools. 
+
+                        Could Citrish help you find your ideal balance?
                     </div>
 
                     <div class="galleryImage">
@@ -37,16 +41,6 @@
                     <div class="galleryImage">
                         <img class="image" src="..\img\Logo_Citrish\Citrish_LogoText_Grey-14.svg">
                     </div>
-
-                    <div class="galleryImage">
-                        <img class="image" src="..\img\Logo_Citrish\Citrish_Logo_Colour-13.svg">
-                    </div>
-
-                    <div class="galleryImage">
-                        <img class="image" src="..\img\Logo_Citrish\Citrish_Logo_Grey-15.svg">
-                    </div>
-
-                    
                 </div>
         </div>
     </div>

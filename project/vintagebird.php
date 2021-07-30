@@ -27,7 +27,7 @@
             <div class="label-content">
 
                     <div class="label-content-pane-text">
-                        These patterns were inspired by a very particular set of textiles from childhood. The textiles are long gone, but the fond memories remain. Of course, the original source of inspiration did not have birds. 
+                        These patterns were inspired by a very particular set of textiles from childhood. The textiles are long gone, but the fond memories remain.
                     </div>
 
                     <div class="galleryImage">

@@ -33,7 +33,7 @@
 
                         The client provided the text; I created the background animations and slide transitions. 
 
-                        The full video can be viewed here: <a href="https://www.youtube.com/watch?v=a30o9nyK18E">https://www.youtube.com/watch?v=a30o9nyK18E</a>
+                        The full video is <a href="https://www.youtube.com/watch?v=a30o9nyK18E">available on YouTube</a>.
                     </div>
                     
                     <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>

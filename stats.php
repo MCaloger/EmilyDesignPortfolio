@@ -21,8 +21,11 @@
             </div>
             <ul>
                 <li>Bachelor of Fine Arts, Spec. Honors. Visual Arts, York University, Toronto, ON.  2012.</li>
+
                 <li>Graphic Design Diploma, Highest Ranking Graduate. Durham College, Oshawa, ON. 2018</li>
+
                 <li>Myths, Monsters & Machines, Northern Contemporary Gallery, September 28 to October 12, 2018</li>
+
                 <li>Off Brand, Northern Contemporary Gallery, October 2019</li>
             </ul>
         </div>
