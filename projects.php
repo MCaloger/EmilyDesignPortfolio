@@ -231,6 +231,65 @@
                         </a>
                     </div>
                 </div>
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/drawingdavid">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Animation_DrawingDavid\EM_DrawingDavid_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/scor">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Animation_SCOR\EM_SCOR40thAnniversary_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/camdentowne">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Design_CamdentowneWebsite\EM_CamdenTowneWebsite_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/mccool">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Design_McCool\EM_McCoolLogos_BlueGold.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/newcomer">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Design_NewcomerBook\EM_CCNewcomers&Money_Thumbnail" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/prism">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Design_PRISM\EM_PRISMLogo_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
             </div>
         </div>
     

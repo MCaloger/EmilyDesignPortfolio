@@ -31,10 +31,6 @@
                     </div>
 
                     <div class="galleryImage">
-                        <img class="image" src="..\img\Illustration_MoneyMindfulness\EM_MoneyMindfulness_2019.png">
-                    </div>
-
-                    <div class="galleryImage">
                         <img class="image" src="..\img\Illustration_MoneyMindfulness\EM_MoneyMindfulness_Thumbnail.png">
                     </div>
                 </div>
