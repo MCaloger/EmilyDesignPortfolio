@@ -19,6 +19,7 @@
     
         <div class="content">
             <div class="grid-container">
+
                 <div class="thumbnail-item">
                     <div class="thumbnail-item-image">
                         <a href="/project/stokelyholidaycard">
@@ -29,6 +30,117 @@
                         </a>
                     </div>
                 </div>
+
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/scor">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Animation_SCOR\EM_SCOR40thAnniversary_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/stellarskateboards">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Design_StellarSkateboards\EM_StellarLogo_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/busbacks">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Design_Busbacks\EM_CCBusback_Sept2019_Thumbnail.jpg" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/moneymindfulness">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Illustration_MoneyMindfulness\EM_MoneyMindfulness_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/camdentowne">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Design_CamdentowneWebsite\EM_CamdenTowneWebsite_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/rechargebattery">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\BatteryAnimation_MissingText\Animation_RechargeBattery\EM_BatteryAnimation_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/southpondfarmsignage">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Design_SouthPondSignage\EM_SPFSignage_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/mermade">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Project_MerMade\Logo_MerMade\EM_MerMade_YellowBG-02.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/drawingdavid">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Animation_DrawingDavid\EM_DrawingDavid_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/seawitch">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Logo_SeaWitch\EM_SeaWitchLogo_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/mccool">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Design_McCool\EM_McCoolLogos_BlueGold.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                
                 <div class="thumbnail-item">
                     <div class="thumbnail-item-image">
                         <a href="/project/newyearlemon">
@@ -49,6 +161,17 @@
                         </a>
                     </div>
                 </div>
+
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/newcomer">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Design_NewcomerBook\EM_CCNewcomers&Money_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
                 <div class="thumbnail-item">
                     <div class="thumbnail-item-image">
                         <a href="/project/citrish">
@@ -168,113 +291,13 @@
                         </a>
                     </div>
                 </div>
-                <div class="thumbnail-item">
-                    <div class="thumbnail-item-image">
-                        <a href="/project/mermade">
-                            <div class="thumbnail-container">
-                                <img class="thumbnail-sm" src="img\Project_MerMade\Logo_MerMade\EM_MerMade_YellowBG-02.png" alt="logos image">
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="thumbnail-item">
-                    <div class="thumbnail-item-image">
-                        <a href="/project/rechargebattery">
-                            <div class="thumbnail-container">
-                                <img class="thumbnail-sm" src="img\BatteryAnimation_MissingText\Animation_RechargeBattery\EM_BatteryAnimation_Thumbnail.png" alt="logos image">
-                            </div>
-                        </a>
-                    </div>
-                </div>
+                
+                
                 <div class="thumbnail-item">
                     <div class="thumbnail-item-image">
                         <a href="/project/mercurymessages">
                             <div class="thumbnail-container">
                                 <img class="thumbnail-sm" src="img\Logo_MercuryMessaging\EM_MercuryLogo_Icon-02.png" alt="logos image">
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="thumbnail-item">
-                    <div class="thumbnail-item-image">
-                        <a href="/project/busbacks">
-                            <div class="thumbnail-container">
-                                <img class="thumbnail-sm" src="img\Design_Busbacks\EM_CCBusback_Sept2019_Thumbnail.jpg" alt="logos image">
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="thumbnail-item">
-                    <div class="thumbnail-item-image">
-                        <a href="/project/southpondfarmsignage">
-                            <div class="thumbnail-container">
-                                <img class="thumbnail-sm" src="img\Design_SouthPondSignage\EM_SPFSignage_Thumbnail.png" alt="logos image">
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="thumbnail-item">
-                    <div class="thumbnail-item-image">
-                        <a href="/project/moneymindfulness">
-                            <div class="thumbnail-container">
-                                <img class="thumbnail-sm" src="img\Illustration_MoneyMindfulness\EM_MoneyMindfulness_Thumbnail.png" alt="logos image">
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="thumbnail-item">
-                    <div class="thumbnail-item-image">
-                        <a href="/project/seawitch">
-                            <div class="thumbnail-container">
-                                <img class="thumbnail-sm" src="img\Logo_SeaWitch\EM_SeaWitchLogo_Thumbnail.png" alt="logos image">
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="thumbnail-item">
-                    <div class="thumbnail-item-image">
-                        <a href="/project/drawingdavid">
-                            <div class="thumbnail-container">
-                                <img class="thumbnail-sm" src="img\Animation_DrawingDavid\EM_DrawingDavid_Thumbnail.png" alt="logos image">
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="thumbnail-item">
-                    <div class="thumbnail-item-image">
-                        <a href="/project/scor">
-                            <div class="thumbnail-container">
-                                <img class="thumbnail-sm" src="img\Animation_SCOR\EM_SCOR40thAnniversary_Thumbnail.png" alt="logos image">
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="thumbnail-item">
-                    <div class="thumbnail-item-image">
-                        <a href="/project/camdentowne">
-                            <div class="thumbnail-container">
-                                <img class="thumbnail-sm" src="img\Design_CamdentowneWebsite\EM_CamdenTowneWebsite_Thumbnail.png" alt="logos image">
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="thumbnail-item">
-                    <div class="thumbnail-item-image">
-                        <a href="/project/mccool">
-                            <div class="thumbnail-container">
-                                <img class="thumbnail-sm" src="img\Design_McCool\EM_McCoolLogos_BlueGold.png" alt="logos image">
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="thumbnail-item">
-                    <div class="thumbnail-item-image">
-                        <a href="/project/newcomer">
-                            <div class="thumbnail-container">
-                                <img class="thumbnail-sm" src="img\Design_NewcomerBook\EM_CCNewcomers&Money_Thumbnail" alt="logos image">
                             </div>
                         </a>
                     </div>
@@ -290,14 +313,24 @@
                     </div>
                 </div>
 
+                
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/givethemapeach">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Animation_GiveThemAPeach\EM_PeachofmyMind_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                
+
             </div>
         </div>
     
         <?php require_once(getcwd() . "/" . "components/footer.php"); ?>
     </div>
-    
-
-    <script src="js/carousel.js"></script>
     
 </body>
 </html>

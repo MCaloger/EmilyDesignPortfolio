@@ -97,7 +97,7 @@
 
                     <a href="../project/newcomer">
                         <div class="galleryImage">
-                            <img class="image" src="..\img\Design_NewcomerBook\EM_CCNewcomers&Money_Thumbnail">
+                            <img class="image" src="..\img\Design_NewcomerBook\EM_CCNewcomers&Money_Thumbnail.png">
                         </div>    
                     </a>
 
@@ -107,6 +107,12 @@
                         </div>    
                     </a>
                     
+                    <a href="../project/stellarskateboards">
+                        <div class="galleryImage">
+                            <img class="image" src="..\img\Design_StellarSkateboards\EM_StellarLogo_Thumbnail.png">
+                        </div>    
+                    </a>
+
                 </div>
         </div>
     </div>

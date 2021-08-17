@@ -28,7 +28,7 @@
                         <div class="thumbnail-item-image">
                             <a href="/category/design">
                                 <div class="thumbnail-container">
-                                    <img class="thumbnail-lg" src="img\March 2021\EM_MarchLogo_BlackRook.png" alt="logos image">
+                                    <img class="thumbnail-lg" src="img\Logo_Powerup\EM_PowerupLogo_WhiteBG.png" alt="logos image">
                                 </div>
                             </a>
                         </div>
@@ -39,7 +39,7 @@
                         <div class="thumbnail-item-image">
                             <a href="/category/animation">
                                 <div class="thumbnail-container">
-                                    <img class="thumbnail-lg" src="img\March 2021\stills\Frame-00208.png" alt="logos image">
+                                    <img class="thumbnail-lg" src="img\BatteryAnimation_MissingText\EM_BatteryAnimation_Thumbnail_NoSig.png" alt="logos image">
                                  
                                 </div>
                             </a>
@@ -51,7 +51,7 @@
                         <div class="thumbnail-item-image">
                             <a href="/category/illustration">
                                 <div class="thumbnail-container">
-                                    <img class="thumbnail-lg" src="img\March 2021\EM_March2021_Pattern_Regular.png" alt="logos image">
+                                    <img class="thumbnail-lg" src="img\Pattern_Powerups\EM_PowerupPattern_May14.png" alt="logos image">
                                 </div>
                             </a>
                         </div>

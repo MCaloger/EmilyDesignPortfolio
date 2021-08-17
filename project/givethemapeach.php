@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CAMDEN TOWNE WEBSITE</title>
+    <title>GIVE THEM A PEACH</title>
     
     <?php 
         require_once($_SERVER['DOCUMENT_ROOT'] . "" . "/components/headerIncludes.php"); 
@@ -22,19 +22,18 @@
     <div class="content">
         <div class="label-container">
             <div class="label-header">
-                <div class="label-text">CAMDEN TOWNE WEBSITE</div> 
+                <div class="label-text">GIVE THEM A PEACH</div> 
             </div>
             <div class="label-content">
 
                     <div class="label-content-pane-text">
-                        Camden Towne requested a website design through my employer. My resulting design is an ode to the Arts and Crafts movement, as requested by the client. 
-
-                        <p>You can view the current iteration of the Camden Towne website at <a href="https://www.camdentowne.ca">www.camdentowne.ca</a></p>
+                        It’s summer here, and the influx of peaches in this household gave me an idea.
                     </div>
 
-                    <div class="galleryImage">
-                        <img class="image" src="..\img\Design_CamdentowneWebsite\EM_CamdenTowne_Homepage.png">
-                    </div>
+                    <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>
+                        <source src="..\img\Animation_GiveThemAPeach\EM_GiveThemAPeach.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
 
                 </div>
         </div>

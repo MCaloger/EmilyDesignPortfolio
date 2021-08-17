@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CREDIT CANADA BUS BACKS</title>
-
+    <title>STELLAR</title>
+    
     <?php 
         require_once($_SERVER['DOCUMENT_ROOT'] . "" . "/components/headerIncludes.php"); 
     ?>
@@ -22,39 +22,36 @@
     <div class="content">
         <div class="label-container">
             <div class="label-header">
-                <div class="label-text">CREDIT CANADA BUS BACKS</div> 
+                <div class="label-text">STELLAR</div> 
             </div>
             <div class="label-content">
 
                     <div class="label-content-pane-text">
-                        Credit Canada commissioned several bus back layouts from my employer as part of a campaign advertising their debt counselling services. 
-
-                        Pictured below are the individual bus back images that I personally worked on. The client provided the copy; I created the illustrations and layouts. 
- 
+                        A skate/lifestyle brand exploration. The goal was to combine outdoor imagery with a smooth, minimalist style so that it would be carefree, surreal, and grounded at the same time. We’re having fun out here doing our own thing, but it’s serious business.
                     </div>
 
                     <div class="galleryImage">
-                        <img class="image" src="..\img\Design_Busbacks\EM_CCBusback_Sept2019_Thumbnail.jpg">
+                        <img class="image" src="..\img\Design_StellarSkateboards\EM_Stellar_Cityboard.png">
                     </div>
 
                     <div class="galleryImage">
-                        <img class="image" src="..\img\CCBusbacks_ImageUpdate\EM_CCBusback_Plug-03.png">
+                        <img class="image" src="..\img\Design_StellarSkateboards\EM_Stellar_Valleyboard.png">
                     </div>
 
                     <div class="galleryImage">
-                        <img class="image" src="..\img\CCBusbacks_ImageUpdate\EM_CCBusback_Baby-01.png">
+                        <img class="image" src="..\img\Design_StellarSkateboards\EM_Stellar_Desertboard.png">
                     </div>
 
                     <div class="galleryImage">
-                        <img class="image" src="..\img\CCBusbacks_ImageUpdate\EM_CCBusback_SleepingMan-01.png">
+                        <img class="image" src="..\img\Design_StellarSkateboards\EM_Stellar_Glacierboard.png">
                     </div>
 
                     <div class="galleryImage">
-                        <img class="image" src="..\img\CCBusbacks_ImageUpdate\EM_CCBusback_Snowman-02.png">
+                        <img class="image" src="..\img\Design_StellarSkateboards\EM_StellarHoodie1.png">
                     </div>
 
                     <div class="galleryImage">
-                        <img class="image" src="..\img\CCBusbacks_ImageUpdate\EM_CCBusback_Stop-04.png">
+                        <img class="image" src="..\img\Design_StellarSkateboards\EM_StellarHoodie2.png">
                     </div>
 
                 </div>

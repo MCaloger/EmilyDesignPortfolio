@@ -113,6 +113,11 @@
                     <source src="..\img\April 2021\EM_ThankYouAnimation_Apr18 (2).mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
+
+                <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>
+                    <source src="..\img\Animation_GiveThemAPeach\EM_GiveThemAPeach.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
             </div>
         </div>
     </div>
