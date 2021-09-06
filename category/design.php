@@ -132,7 +132,7 @@
                             </div>    
                         </a>
 
-                        <a href="../project/prism">
+                        <a href="../project/hazelnut">
                             <div class="galleryImage">
                                 <img class="image" src="..\img\Design_Hazelnuts\EM_HazelnutGuide_Thumbnail.png">
                             </div>    
