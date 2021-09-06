@@ -312,8 +312,7 @@
                         </a>
                     </div>
                 </div>
-
-                
+  
                 <div class="thumbnail-item">
                     <div class="thumbnail-item-image">
                         <a href="/project/givethemapeach">
@@ -324,7 +323,107 @@
                     </div>
                 </div>
 
+                <!-- Batch 6 -->
                 
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/niacshorts">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Animaion_NIACshorts\EM_NIACShorts_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/boulevard">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Animation_Boulevard\EM_BLVD_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/hendersonrobbwhiteboard">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Animation_HendersonRobb\EM_HRMWhiteboardVideo_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/justpeachy">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Animation_JustPeachy\EM_JustPeachy_Light.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/paintyourbestfootforward">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Animation_PaintYourBestFootForward\EM_PencilBird_Gladstone_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/barbaraklunderselectedworks">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Design_BKSelectedWorks\SelectedWorks_CoverPhoto_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/budgiebudgeting">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Design_Budgie\EM_BudgieLogo_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/futurepower">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Design_FuturePower\EM_FuturePower_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/hazelnut">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Design_Hazelnuts\EM_HazelnutGuide_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/ontariocreates">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Design_OntarioCreates\OC_MagBadge_Aug01.jpg" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="thumbnail-item">
+                    <div class="thumbnail-item-image">
+                        <a href="/project/congratsdonuts">
+                            <div class="thumbnail-container">
+                                <img class="thumbnail-sm" src="img\Illustration_CongratsDonuts\CongratulationsDonuts_Pattern_Thumbnail.png" alt="logos image">
+                            </div>
+                        </a>
+                    </div>
+                </div>
 
             </div>
         </div>

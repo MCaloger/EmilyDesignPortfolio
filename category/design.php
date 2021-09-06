@@ -113,6 +113,38 @@
                         </div>    
                     </a>
 
+                    <!-- Batch 6 -->
+                        <a href="../project/barbaraklunderselectedworks">
+                            <div class="galleryImage">
+                                <img class="image" src="..\img\Design_BKSelectedWorks\SelectedWorks_CoverPhoto_Thumbnail.png">
+                            </div>    
+                        </a>
+
+                        <a href="../project/budgiebudgeting">
+                            <div class="galleryImage">
+                                <img class="image" src="..\img\Design_Budgie\EM_BudgieLogo_Thumbnail.png">
+                            </div>    
+                        </a>
+
+                        <a href="../project/futurepower">
+                            <div class="galleryImage">
+                                <img class="image" src="..\img\Design_FuturePower\EM_FuturePower_Thumbnail.png">
+                            </div>    
+                        </a>
+
+                        <a href="../project/prism">
+                            <div class="galleryImage">
+                                <img class="image" src="..\img\Design_Hazelnuts\EM_HazelnutGuide_Thumbnail.png">
+                            </div>    
+                        </a>
+                        
+                        <a href="../project/ontariocreates">
+                            <div class="galleryImage">
+                                <img class="image" src="..\img\Design_OntarioCreates\OC_MagBadge_Aug01.jpg">
+                            </div>    
+                        </a>
+                    <!-- Batch 6 -->
+
                 </div>
         </div>
     </div>

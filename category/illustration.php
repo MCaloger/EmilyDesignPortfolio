@@ -70,6 +70,12 @@
                         </div>
                     </a>
 
+                    <a href="../project/congratsdonuts">
+                        <div class="galleryImage">
+                            <img class="image" src="..\img\Illustration_CongratsDonuts\CongratulationsDonuts_Pattern_Thumbnail.png">
+                        </div>
+                    </a>
+
                     <!-- <div class="galleryImage">
                         <img class="image" src="..\img\April 2021\ThankYouPattern_Colour_Apr18.png">
                     </div> -->

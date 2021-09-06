@@ -109,13 +109,54 @@
                     </video>
                 </a>
 
-                <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>
-                    <source src="..\img\April 2021\EM_ThankYouAnimation_Apr18 (2).mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video>
+                <!-- Batch 6 -->
+
+                <a class="centered-video" href="../project/niacshorts">
+                    <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>
+                        <source src="..\img\Animaion_NIACshorts\EM_NIACSeRA_DocumentUpload.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </a>
+
+                <a class="centered-video" href="../project/boulevard">
+                    <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>
+                        <source src="..\img\Animation_Boulevard\EM_BLVD_Scene3A.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </a>
+
+                <a class="centered-video" href="../project/hendersonrobbwhiteboard">
+                    <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>
+                        <source src="..\img\Animation_HendersonRobb\EM_HRMWhiteboardVideo_short.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </a>
+
+                <a class="centered-video" href="../project/justpeachy">
+                    <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>
+                        <source src="..\img\Animation_JustPeachy\JustPeachy_LoopLight.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </a>
+
+                <a class="centered-video" href="../project/paintyourbestfootforward">
+                    <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>
+                        <source src="..\img\Animation_PaintYourBestFootForward\EM_PencilBird_PainttubeShort.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </a>
+
+                <!-- Batch 6 -->
+   
+                <a class="centered-video" href="../project/givethemapeach">
+                    <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>
+                        <source src="..\img\Animation_GiveThemAPeach\EM_GiveThemAPeach.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </a>
 
                 <video class="galleryImage" width="300" height="300" autoplay muted loop playsinline>
-                    <source src="..\img\Animation_GiveThemAPeach\EM_GiveThemAPeach.mp4" type="video/mp4">
+                    <source src="..\img\April 2021\EM_ThankYouAnimation_Apr18 (2).mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>
