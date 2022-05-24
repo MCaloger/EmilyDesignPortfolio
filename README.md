@@ -2,7 +2,7 @@
 
 This website was built using PHP and designed for my wife as a centralized location to show her design portfolio. I chose PHP as a good opportunity to learn the language and use it as a templating engine.
 
-You can visit this page at (https://ekmccourt.com)
+You can visit this page at https://ekmccourt.com
 
 ![port-landing](https://user-images.githubusercontent.com/3233613/169936125-fd0061b7-4827-433f-815c-30a2ed10f8bf.png)
 
