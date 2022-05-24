@@ -1,4 +1,4 @@
-# GraphicDesignerPortfolio
+# Graphic Designer Portfolio
 
 This website was built using PHP and designed for my wife as a centralized location to show her design portfolio. I chose PHP as a good opportunity to learn the language and use it as a templating engine.
 
